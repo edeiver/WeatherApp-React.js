@@ -1,0 +1,20 @@
+/* .weatherDataCont{
+    background-image: linear-gradient(315deg, #045de9 0%, #09c6f9 74%);
+    width: 400px;
+    height: 150px;
+    line-clamp: 100px;
+}
+.weatherTempCont{
+    background-image: linear-gradient(315deg, #045de9 0%, #dd09f9 74%);
+    width: 60%; 
+    display: inline-block;
+}
+.weatherExtraInfoCont{
+    background-image: linear-gradient(315deg, #045de9 0%, #09f9b1 74%);
+    width: 40%;
+    display: inline-block;
+} */
+.weatherTempCont i {
+    margin-right: 10px;
+    color: blue;
+}
